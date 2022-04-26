@@ -1,0 +1,27 @@
+{
+    "users": [{"nickName": "sonle", 
+               "email":"leanhson122@gmail.com", 
+               "password": "123456",
+               "country": "vietnam",
+               "phone": "077 329 9232",
+               "confirmPassword": "123456"},
+               {"nickName": "quanle", 
+                "email":"quanle@gmail.com", 
+                "password": "abcabc",
+                "country": "canada",
+                "phone": "098 929 9232",
+                "confirmPassword": "abcabc"},
+                {"nickName": "giangdoan", 
+                    "email":"giangdoan@gmail.com", 
+                    "password": "123abc",
+                    "country": "singapore",
+                    "phone": "122 39 002",
+                    "confirmPassword": "123abc"}
+                ,{"nickName": "mainguyen", 
+                    "email":"mainguyen@gmail.com", 
+                    "password": "222333",
+                    "country": "usa",
+                    "phone": "01 489 7777",
+                    "confirmPassword": "222333"}]
+   
+} 
